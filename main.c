@@ -5,6 +5,6 @@
   
   	b = a + 1;
   	print("%d", b);
-  
+  	printf(%D, a);
   	return 0;
   }
